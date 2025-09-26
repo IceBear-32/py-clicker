@@ -4,4 +4,7 @@ You can setup the needed things in it like the right click or left click toggle 
 
 Uses `tkinter` for the gui and `pyautogui` for click simulation
 
+But the drawback here is, python is interpreted so this doesn't accurately simulate clicks, it takes some time to execute the lines.
+This is a fun project, you might learn something so that's fine :)
+
 That's everything thank you 🐬
